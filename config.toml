@@ -29,7 +29,7 @@ preserveTaxonomyNames = true
   # "Color Palette" section of http://tachyons.io/docs/themes/skins/
   siteBgColor = "near-white"
   sidebarBgColor = "light-gray"
-  headlineColor = "dark-pink"
+  headlineColor = "silver" # "dark-pink"
   headingColor = "near-black"
   textColor = "dark-gray"
   sidebarTextColor = "mid-gray"
