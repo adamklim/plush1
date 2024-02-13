@@ -1,20 +1,6 @@
-# _Blogophonic_ - a blog theme for Hugo by [Formspree](https://formspree.io)
+# Personal site built on Blogophonic Hugo template: https://github.com/formspree/blogophonic-hugo
 
-A modern, beautiful, and easily configurable blog for Hugo that includes a dedicated page with a functional contact form.
 
-**See the demo [here](https://blogophonic-hugo.netlify.com)**
-
-![screenshot](static/img/screenshot.png)
-
-## Three Reasons to Use Blogophonic
-
-1. **Blogophonic is thoughtfully crafted** with features a blog _should have_: multiple layouts - including one with a sidebar; custom sidebar text with a sticky ad container; option to hide byline, dateline, and thumbnail images.
-
-2. **Styled with Tachyons** - A design system for todays modern, generated websites. Avoid complex cascades and unintended side effects while taking advantage of Tachyons community library of components.
-
-3. **Forms Built-in** - Collect inquiries fast and easy with a contact form powered by Formspree ... you don't need a server or any programming knowledge. Just configure the form page and submit once to set it up.
-
-## Usage
 
 > NOTE: blogophonic-hugo requires the `extended` version of hugo, since it relies on hugo's built-in SASS processor. As of Jan 11, 2021 `hugo-extended` is installed by default when running `brew install` however, for windows or linux users, you must ensure you've installed the extended version. Please see https://gohugo.io/getting-started/installing/. 
 
